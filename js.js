@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @description Extract product IDs from Aliexpress and send them to a server
-// @author      -
+// @author      GPT-4
 // ==/UserScript==
 
 (function () {
