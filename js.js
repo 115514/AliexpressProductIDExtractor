@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.aliexpress.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @description Extract product IDs from Aliexpress and send them to a server
 // @author      GPT-4
 // ==/UserScript==
