@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Aliexpress Product ID Extractor
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.2
 // @description  Extract product IDs from Aliexpress search page
 // @author       ChatGPT
 // @match        https://www.aliexpress.com/*
